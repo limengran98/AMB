@@ -1,6 +1,12 @@
-# Works on graph with missing features
+# AMB: Works on graph with missing features
 
+## Datasets
+The data obtained from [link](https://pan.baidu.com/s/11BMkYgJDVcUNUrzAW6EClQ?pwd=92vd ) is approximate. Code: 92vd
 
+## Usage
+You can use the following command to run our model.
+> python main.py 
+> 
 # REFERENCES
 
 1. [Accurate Node Feature Estimation
